@@ -30,4 +30,4 @@ Install node modules using :
 5. Install axios: 
 >`npm install axios --save`
 
-### To run the project, install the above dependencies in the local directory and enter `npm run start`.
+### To run the project, install the above dependencies in the local directory and enter `npm run start` in console.
